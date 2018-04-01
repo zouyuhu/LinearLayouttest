@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LinearLayouttest</string>
+    <string name="button11">One,One</string>
+    <string name="button12">One,Two</string>
+    <string name="button13">One,Three</string>
+    <string name="button14">One,Four</string>
+    <string name="button21">Two,One</string>
+    <string name="button22">Two,Two</string>
+    <string name="button23">Two,Three</string>
+    <string name="button24">Two,Four</string>
+    <string name="button31">Three,One</string>
+    <string name="button32">Three,Two</string>
+    <string name="button33">Three,Three</string>
+    <string name="button34">Three,Four</string>
+    <string name="button41">Four,One</string>
+    <string name="button42">Four,Two</string>
+    <string name="button43">Four,Three</string>
+    <string name="button44">Four,Four</string>
+
+
+</resources>
